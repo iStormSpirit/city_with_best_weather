@@ -1,0 +1,16 @@
+city,all_weather,avg_temp,no_precipitation,points
+Moscow,"[{'date': '2022-05-26', 'weather': {'average_temp': 17, 'no_precipitation': 7}}]",17,7,24
+Étréchy,"[{'date': '2022-05-26', 'weather': {'average_temp': 17, 'no_precipitation': 9}}]",17,9,26
+London,"[{'date': '2022-05-26', 'weather': {'average_temp': 17, 'no_precipitation': 11}}]",17,11,28
+Teltow-Fläming,"[{'date': '2022-05-26', 'weather': {'average_temp': 19, 'no_precipitation': 9}}]",19,9,28
+Baoding District,"[{'date': '2022-05-26', 'weather': {'average_temp': 31, 'no_precipitation': 11}}]",31,11,42
+City of Kazan,"[{'date': '2022-05-26', 'weather': {'average_temp': 12, 'no_precipitation': 6}}]",12,6,18
+Saint Petersburg,"[{'date': '2022-05-26', 'weather': {'average_temp': 12, 'no_precipitation': 3}}]",12,3,15
+Volgograd,"[{'date': '2022-05-26', 'weather': {'average_temp': 22, 'no_precipitation': 11}}]",22,11,33
+Novosibirsk,"[{'date': '2022-05-26', 'weather': {'average_temp': 24, 'no_precipitation': 11}}]",24,11,35
+Kaliningrad,"[{'date': '2022-05-26', 'weather': {'average_temp': 15, 'no_precipitation': 9}}]",15,9,24
+Abu Dhabi,"[{'date': '2022-05-26', 'weather': {'average_temp': 34, 'no_precipitation': 11}}]",34,11,45
+Powiat Warszawa,"[{'date': '2022-05-26', 'weather': {'average_temp': 19, 'no_precipitation': 11}}]",19,11,30
+Bucharest,"[{'date': '2022-05-26', 'weather': {'average_temp': 27, 'no_precipitation': 11}}]",27,11,38
+Rome,"[{'date': '2022-05-26', 'weather': {'average_temp': 29, 'no_precipitation': 11}}]",29,11,40
+Cairo,"[{'date': '2022-05-26', 'weather': {'average_temp': 32, 'no_precipitation': 11}}]",32,11,43
